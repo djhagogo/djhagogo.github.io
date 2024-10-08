@@ -1,0 +1,62 @@
+body {
+  background-image:url("https://mcdn.wallpapersafari.com/medium/5/87/EZJ0Gm.jpg")}
+
+h1{
+   border-color:SeaGreen;
+   border-style:ridge;
+   border-radius: 15px;
+   text-align: center;
+   font-family: roboto condensed;sans-serif;
+   font-weight: lighter;
+    font-size:90px;}
+
+p{
+  font-family: "Poiret One", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+h3{
+    font-family: "Poiret One", sans-serif;
+    font-weight: 600;
+}
+h2{
+    font-family: "Poiret One", sans-serif;
+    font-weight: 600;
+}
+
+} 
+li {
+  display: inline;
+  text-align: center;
+  
+}
+li a{
+    display:inline-block;
+    color:darkslategray;
+    text-align:center;
+    padding:10px 16px;
+    text-decoration:none;
+}
+li a:hover{
+    background-color: darkseagreen;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow:hidden;
+  text-align: center;
+
+
+.navbar{
+     width: 650px;
+    length:30px;
+    color: darkslategray;
+    text-align: center;
+    font-family: "Poiret One", sans-serif;
+    margin-left: 400px;
+    padding:3px;
+    border-color: darkslategray;
+    border-style: ridge;
+    border-radius: 15px;
